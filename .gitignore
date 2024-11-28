@@ -1,0 +1,13 @@
+/target
+.idea
+.vscode
+
+# This is a library so we don't track the Cargo lock
+Cargo.lock
+
+# Non-critical files
+*.png
+*.*~
+*.obj
+output
+models
