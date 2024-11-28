@@ -8,6 +8,8 @@ This is partly due to poor copyright / ownership attributions in previous exampl
 
 prism is not complete! However, it is functional with an unstable API. One day I may pick this project up again and finish it out to 1.0, but today's not that day :P
 
+### [Examples](examples/README.md)
+
 ### What is this?
 * Prism is an attempt to create a powerful enough math library to make distributed CPU workloads possible, mainly for shading
 * The API handles complex operations, like threading, for you! While also providing traits for you to implement your own features!
